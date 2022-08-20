@@ -6,3 +6,6 @@ A family directory where a user can easily and quickly find known and yet to be 
 
 
 ## Contact
+
+
+## @ icon-info-circle 
