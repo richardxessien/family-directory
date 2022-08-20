@@ -11,4 +11,4 @@ A family directory where a user can easily and quickly find known and yet to be 
 ## Contact
 
 
-## @ icon-camera
+## @ ion-icon-camera
