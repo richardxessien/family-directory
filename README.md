@@ -9,6 +9,6 @@ A family directory where a user can easily and quickly find known and yet to be 
 
 
 ## Contact
-
-
-## @ion-icon-camera
+<div>
+    <img src="https://www.svgrepo.com/show/42368/email.svg" alt="email icon" width="25" />
+</div>
