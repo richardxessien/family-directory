@@ -2,7 +2,7 @@
 [//]: # (<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>)
 
 <!-- Styling -->
-<style>
+<!-- <style>
     label {
         display: block;
     }
@@ -41,7 +41,7 @@
         align-items: center;
         justify-content: center;
     }
-</style>
+</style> -->
 <!-- End Styling -->
 
 # family-directory
@@ -73,7 +73,7 @@
 &thinsp;
 ## Collaborators
 &thinsp;
-<section id="collab-cards">
+<!-- <section id="collab-cards">
     <div class="collaborator-card">
         <img src="./collaborator-avatars/essien-richard.jpg" alt="Photo of Richard Essien">
         <p>Essien, Richard<br>| <em>Project Owner</em><br>| <em>Lead Engineer</em></p>
@@ -94,4 +94,4 @@
             <a href="https://github.com/LewCodeSE"><img src="./icons/github-svgrepo-com.svg" alt="github icon"></a>
         </article>
     </div>
-</section>
+</section> -->
